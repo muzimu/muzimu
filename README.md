@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![PR Stats](http://204.141.229.21:8080/card?username=muzimu&top=3)](http://204.141.229.21:8080/pr?username=muzimu&top=3)
+[![PR Collector](http://t6s66.cn:8080/card?username=muzimu&top=5&style=default)](http://t6s66.cn:8080/pr?username=muzimu)
